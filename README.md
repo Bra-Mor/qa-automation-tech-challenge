@@ -30,7 +30,8 @@ login.fillPasswordInput("test123");
 4. Ensure that a chatbot named "ZapBot" has been created in the application. This is the bot used for intent testing.
 
 ✅ Tools Used
-Selenium WebDriver
+
+-Selenium WebDriver
 
 - Java
 
@@ -38,4 +39,4 @@ Selenium WebDriver
 
 - Cucumber
 
-- Maven/Gradle (según tu proyecto)
+- Maven/Gradle
